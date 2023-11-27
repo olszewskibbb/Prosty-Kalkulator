@@ -24,7 +24,6 @@ public class Main {
         liczba2 = scanner.nextDouble();
 
         double wynik;
-
         switch(dzialanie) {
             case '+':
                 wynik = dodawanie(liczba1, liczba2);
